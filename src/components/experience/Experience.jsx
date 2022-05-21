@@ -7,9 +7,13 @@ import {DiHeroku} from 'react-icons/di'
 import {DiLaravel} from 'react-icons/di'
 import {DiPhp} from 'react-icons/di'
 import {SiFlask} from 'react-icons/si'
+import {SiNotion} from 'react-icons/si'
+import {SiDocker} from 'react-icons/si'
+import {SiGnubash} from 'react-icons/si'
 import {SiJirasoftware} from 'react-icons/si'
 import {SiTypescript} from 'react-icons/si'
 import {SiAmazonaws} from 'react-icons/si'
+import {SiPostgresql} from 'react-icons/si'
 import {SiDjango} from 'react-icons/si'
 import {SiMysql} from 'react-icons/si'
 import {GrWordpress} from 'react-icons/gr'
@@ -17,6 +21,7 @@ import {BsBootstrapFill} from 'react-icons/bs'
 import {FaCss3} from 'react-icons/fa'
 import {AiFillHtml5} from 'react-icons/ai'
 import {CgGoogle} from 'react-icons/cg'
+import {BiGitBranch} from 'react-icons/bi'
 const Experience = () => {
   return (
     <section id='experience'>
@@ -130,7 +135,7 @@ const Experience = () => {
               </article>
 
               <article className='experience__details'>
-                <BsPatchCheckFill className='experience__details-icon'/>
+                <SiPostgresql className='experience__details-icon'/>
                 <div>
                   <h4>Postgres</h4>
                   <small className='text-light'>Experienced</small>
@@ -138,7 +143,7 @@ const Experience = () => {
               </article>
 
               <article className='experience__details'>
-                <BsPatchCheckFill className='experience__details-icon'/>
+                <SiGnubash className='experience__details-icon'/>
                 <div>
                   <h4>Bash</h4>
                   <small className='text-light'>Intermedite</small>
@@ -146,7 +151,7 @@ const Experience = () => {
               </article>
 
               <article className='experience__details'>
-                <BsPatchCheckFill className='experience__details-icon'/>
+                <BiGitBranch className='experience__details-icon'/>
                 <div>
                   <h4>Git</h4>
                   <small className='text-light'>intermediate</small>
@@ -154,7 +159,7 @@ const Experience = () => {
               </article>
 
               <article className='experience__details'>
-                <BsPatchCheckFill className='experience__details-icon'/>
+                <SiNotion className='experience__details-icon'/>
                 <div>
                   <h4>Notion</h4>
                   <small className='text-light'>Experienced</small>
@@ -162,7 +167,7 @@ const Experience = () => {
               </article>
 
               <article className='experience__details'>
-                <BsPatchCheckFill className='experience__details-icon'/>
+                <SiDocker className='experience__details-icon'/>
                 <div>
                   <h4>Docker</h4>
                   <small className='text-light'>Experienced</small> 
