@@ -1,6 +1,6 @@
 import React from 'react'
 import './testimonials.css'
-import AVTR1 from '../../assets/avatar1.jpg'
+import AVTR1 from '../../assets/avatar1.png'
 import AVTR2 from '../../assets/avatar2.jpg'
 
 // import Swiper core and required modules
@@ -17,7 +17,7 @@ const data = [
   {
     avatar: AVTR1,
     name:'The Python Software Foundation',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quasi, asperiores enim doloremque quam fugit ab tempora possimus illum at expedita placeat assumenda aut maiores, voluptate nemo explicabo? Sed, corporis.',
+    review: 'He supported the Python ecosystem by being phenomenal leader, sustaining the growth of the Python scientific community, maintaining virtual Python communities, maintaining Python libraries, creating educational material, organizing Python events and conferences, starting Python communities in local regions, and overall being great mentors in our community. Each of them continues to help make Python more accessible around the world.',
   },
 
   {

@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
+import IMG1 from '../../assets/portfolio1.png'
+import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
@@ -12,16 +12,23 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Project title',
-    github: 'https://github.com',
+    title: 'Pycon Nigeria 2019',
+    github: 'https://github.com/miyanda2/pyconng-2019',
     demo: '#'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Project title',
-    github: 'https://github.com',
+    title: 'Http Transport',
+    github: 'https://github.com/miyanda2/httpTransport',
     demo: '#'
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: 'Nigerian Institution of Mechanical Engineers',
+    github: 'https://github.com/miyanda2/NIMechE',
+    demo: 'https://nimechehq.org/'
   },
   {
     id: 3,
@@ -30,6 +37,7 @@ const data = [
     github: 'https://github.com',
     demo: '#'
   },
+  
   {
     id: 4,
     image: IMG4,
@@ -37,13 +45,7 @@ const data = [
     github: 'https://github.com',
     demo: '#'
   },
-  {
-    id: 5,
-    image: IMG5,
-    title: 'Project title',
-    github: 'https://github.com',
-    demo: '#'
-  },
+  
   {
     id: 6,
     image: IMG6,
