@@ -36,7 +36,7 @@ const Experience = () => {
               <SiPython className='experience__details-icon'/>
               <div>
                 <h4>Python</h4>
-                <small className='text-light'>Experienced</small>
+                {/* <small className='text-light'>Intermediate</small> */}
               </div>
             </article>
 
@@ -44,7 +44,7 @@ const Experience = () => {
               <DiPhp className='experience__details-icon'/>
               <div>
                 <h4>PHP</h4>
-                <small className='text-light'>Experienced</small>
+                {/* <small className='text-light'>Intermediate</small> */}
               </div>
             </article>
 
@@ -52,7 +52,7 @@ const Experience = () => {
               <SiFlask className='experience__details-icon'/>
               <div>
                 <h4>Flask</h4>
-                <small className='text-light'>Intermedite</small>
+                {/* <small className='text-light'>Intermedite</small> */}
               </div>
             </article>
 
@@ -60,7 +60,7 @@ const Experience = () => {
               <SiDjango className='experience__details-icon'/>
               <div>
                 <h4>Django</h4>
-                <small className='text-light'>intermediate</small>
+                {/* <small className='text-light'>intermediate</small> */}
               </div>
             </article>
 
@@ -68,7 +68,7 @@ const Experience = () => {
             <DiLaravel className='experience__details-icon'/>
               <div>
                 <h4>Laravel</h4>
-                <small className='text-light'>Experienced</small>
+                {/* <small className='text-light'>Experienced</small> */}
               </div>
             </article>
 
@@ -76,7 +76,7 @@ const Experience = () => {
               <DiJavascript1 className='experience__details-icon'/>
               <div>
                 <h4>JavaScript</h4>
-                <small className='text-light'>Experienced</small>
+                {/* <small className='text-light'>Experienced</small> */}
               </div>
             </article>
 
@@ -84,7 +84,7 @@ const Experience = () => {
               <SiTypescript className='experience__details-icon'/>
               <div>
                 <h4>TypeScript</h4>
-                <small className='text-light'>Experienced</small>
+                {/* <small className='text-light'>Experienced</small> */}
               </div>
             </article>
 
@@ -92,7 +92,7 @@ const Experience = () => {
               <GrWordpress className='experience__details-icon'/>
               <div>
                 <h4>Wordpress</h4>
-                <small className='text-light'>Experienced</small>
+                {/* <small className='text-light'>Experienced</small> */}
               </div>
             </article>
 
@@ -100,7 +100,7 @@ const Experience = () => {
               <BsBootstrapFill className='experience__details-icon'/>
               <div>
                 <h4>bootstrap</h4>
-                <small className='text-light'>Experienced</small>
+                {/* <small className='text-light'>Experienced</small> */}
               </div>
             </article>
 
@@ -108,7 +108,7 @@ const Experience = () => {
               <AiFillHtml5 className='experience__details-icon'/>
               <div>
                 <h4>HTML</h4>
-                <small className='text-light'>Experienced</small>
+                {/* <small className='text-light'>Experienced</small> */}
               </div>
             </article>
 
@@ -116,7 +116,7 @@ const Experience = () => {
               <FaCss3 className='experience__details-icon'/>
               <div>
                 <h4>CSS</h4>
-                <small className='text-light'>Experienced</small>
+                {/* <small className='text-light'>Experienced</small> */}
               </div>
             </article>
 
@@ -130,7 +130,7 @@ const Experience = () => {
                 <SiMysql className='experience__details-icon'/>
                 <div>
                   <h4>MYSQL</h4>
-                  <small className='text-light'>Experienced</small>
+                  {/* <small className='text-light'>Experienced</small> */}
                 </div>
               </article>
 
@@ -138,7 +138,7 @@ const Experience = () => {
                 <SiPostgresql className='experience__details-icon'/>
                 <div>
                   <h4>Postgres</h4>
-                  <small className='text-light'>Experienced</small>
+                  {/* <small className='text-light'>Experienced</small> */}
                 </div>
               </article>
 
@@ -146,7 +146,7 @@ const Experience = () => {
                 <SiGnubash className='experience__details-icon'/>
                 <div>
                   <h4>Bash</h4>
-                  <small className='text-light'>Intermedite</small>
+                  {/* <small className='text-light'>Intermedite</small> */}
                 </div>
               </article>
 
@@ -154,7 +154,7 @@ const Experience = () => {
                 <BiGitBranch className='experience__details-icon'/>
                 <div>
                   <h4>Git</h4>
-                  <small className='text-light'>intermediate</small>
+                  {/* <small className='text-light'>intermediate</small> */}
                 </div>
               </article>
 
@@ -162,7 +162,7 @@ const Experience = () => {
                 <SiNotion className='experience__details-icon'/>
                 <div>
                   <h4>Notion</h4>
-                  <small className='text-light'>Experienced</small>
+                  {/* <small className='text-light'>Experienced</small> */}
                 </div>
               </article>
 
@@ -170,7 +170,7 @@ const Experience = () => {
                 <SiDocker className='experience__details-icon'/>
                 <div>
                   <h4>Docker</h4>
-                  <small className='text-light'>Experienced</small> 
+                  {/* <small className='text-light'>Experienced</small>  */}
                 </div>
               </article>
 
@@ -178,7 +178,7 @@ const Experience = () => {
                 <SiAmazonaws className='experience__details-icon'/>
                 <div>
                   <h4>AWS</h4>
-                  <small className='text-light'>Experienced</small>
+                  {/* <small className='text-light'>Experienced</small> */}
                 </div>
               </article>
 
@@ -186,7 +186,7 @@ const Experience = () => {
                 <CgGoogle className='experience__details-icon'/>
                 <div>
                   <h4>GCP</h4>
-                  <small className='text-light'>Experienced</small>
+                  {/* <small className='text-light'>Experienced</small> */}
                 </div>
               </article>
 
@@ -194,7 +194,7 @@ const Experience = () => {
                 <SiJirasoftware className='experience__details-icon'/>
                   <div>
                     <h4>Jira</h4>
-                    <small className='text-light'>Experienced</small>
+                    {/* <small className='text-light'>Experienced</small> */}
                   </div>
               </article>
 
@@ -202,7 +202,7 @@ const Experience = () => {
                 <DiHeroku className='experience__details-icon'/>
                 <div>
                   <h4>Heroku</h4>
-                  <small className='text-light'>Experienced</small>
+                  {/* <small className='text-light'>Experienced</small> */}
                 </div>
               </article>
 
