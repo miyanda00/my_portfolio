@@ -39,11 +39,11 @@ header{
 
 /*me*/
 .me{
-    background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
-    height: 30rem;
+    /* background: linear-gradient(var(--color-primary), transparent); */
+    width: 32rem;
+    height: 40rem;
     position: absolute;
-    left: calc(50% - 11rem);
+    left: calc(50% - 16rem);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
