@@ -30,29 +30,7 @@ const data = [
     github: 'https://github.com/miyanda2/NIMechE',
     demo: 'https://nimechehq.org/'
   },
-  {
-    id: 3,
-    image: IMG3,
-    title: 'Project title',
-    github: 'https://github.com',
-    demo: '#'
-  },
   
-  {
-    id: 4,
-    image: IMG4,
-    title: 'Project title',
-    github: 'https://github.com',
-    demo: '#'
-  },
-  
-  {
-    id: 6,
-    image: IMG6,
-    title: 'Project title',
-    github: 'https://github.com',
-    demo: '#'
-  },
 ]
 
 const Portfolio = () => {

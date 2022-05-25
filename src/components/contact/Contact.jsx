@@ -12,6 +12,7 @@ const Contact = () => {
     e.preventDefault();
 
     emailjs.sendForm('service_437r1pi', 'template_hyayi2a', form.current, '1y5CXYhvzsr47ECE3')
+    e.target.reset()
       .then((result) => {
           console.log(result.text);
       }, (error) => {
