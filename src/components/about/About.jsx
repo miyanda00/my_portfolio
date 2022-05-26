@@ -25,17 +25,17 @@ const About = () => {
             <small>3+ Years Working </small>
           </article>
 
-          <article className='about__card'>
-            {/* <FiUsers className='about__icon'/>
+          {/* <article className='about__card'>
+            <FiUsers className='about__icon'/>
             <h5>Clients</h5>
-            <small>3+ Years Working</small> */}
-          </article>
+            <small>3+ Years Working</small>
+          </article> */}
 
-          <article className='about__card'>
+          {/* <article className='about__card'>
             <VscFolderLibrary className='about__icon'/>
             <h5>Projects</h5>
             <small>20+ Completed</small>
-          </article>
+          </article> */}
         </div>
         <p>
         Experienced Python and PHP Developer with a demonstrated history of working in the non-profit organization management industry. Skilled in PHP, laravel, Heroku, Python (Programming Language), WordPress, Bash, and Art. Currently Python Software Foundation Fellow, Strong business development professional with a HND focused in Computer Science.
