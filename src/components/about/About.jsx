@@ -2,8 +2,8 @@ import React from 'react'
 import './about.css'
 import Me from '../../assets/me-about1.jpg'
 import {FaAward} from 'react-icons/fa'
-import {FiUsers} from 'react-icons/fi'
-import {VscFolderLibrary} from 'react-icons/vsc'
+// import {FiUsers} from 'react-icons/fi'
+// import {VscFolderLibrary} from 'react-icons/vsc'
 const About = () => {
   return (
     <section id='about'> 
